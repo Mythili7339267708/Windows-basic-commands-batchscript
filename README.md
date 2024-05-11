@@ -31,22 +31,11 @@ Create a directory named "MyLab" on the desktop.
 ## COMMAND AND OUTPUT
 
 Change to the "MyLab" directory and create an empty text file named "MyFile.txt" inside it.
-
-
-
-![image](https://github.com/Mythili7339267708/Windows-basic-commands-batchscript/assets/144260246/13ecec61-daed-4ab7-8b0c-a07379d88f28)
-
-
-## COMMAND AND OUTPUT
-
 List the contents of the "MyLab" directory.
 
 
-![image](https://github.com/Mythili7339267708/Windows-basic-commands-batchscript/assets/144260246/77d35706-9e10-4469-80c8-9751619dddc2)
 
-
-
-![image](https://github.com/Mythili7339267708/Windows-basic-commands-batchscript/assets/144260246/78b4f681-d378-4286-9cb6-b8752f44d366)
+![image](https://github.com/Mythili7339267708/Windows-basic-commands-batchscript/assets/144260246/27e99340-d4e5-427f-a2f7-41e165f45984)
 
 
 
@@ -54,28 +43,24 @@ List the contents of the "MyLab" directory.
 
 Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
 
-![image](https://github.com/Mythili7339267708/Windows-basic-commands-batchscript/assets/144260246/11e0e306-fd03-4ad3-bab0-d0c7f2695498)
+![image](https://github.com/Mythili7339267708/Windows-basic-commands-batchscript/assets/144260246/d0eb620b-7672-4cf3-a814-edc7486192cd)
 
 
 ## COMMAND AND OUTPUT
 
 Move the "MyLab" directory to the "Documents" folder.
 
-![image](https://github.com/Mythili7339267708/Windows-basic-commands-batchscript/assets/144260246/a0023c36-7056-4513-95e7-d6f9f394224f)
+![image](https://github.com/Mythili7339267708/Windows-basic-commands-batchscript/assets/144260246/4cf0fe9f-fe90-4616-ac1a-4949a7e7b7f8)
 
-
-
-![image](https://github.com/Mythili7339267708/Windows-basic-commands-batchscript/assets/144260246/5fa8666c-aab0-46d2-898b-dd2fb804371e)
-
-
-## COMMAND AND OUTPUT
-
-
-![image](https://github.com/Mythili7339267708/Windows-basic-commands-batchscript/assets/144260246/713091b6-88ec-499b-b63a-99f92ba93622)
 
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch script named "BackupScript.bat" that creates a backup of files with the ".docx" extension from the "Documents" folder to a new folder named "DocBackup" on the desktop.
+
+![image](https://github.com/Mythili7339267708/Windows-basic-commands-batchscript/assets/144260246/96a899cc-95a9-4419-9dd9-897d3a542683)
+
+
+![image](https://github.com/Mythili7339267708/Windows-basic-commands-batchscript/assets/144260246/05679e89-0cad-46dd-a2fa-05a5248a766a)
 
 
 ```
